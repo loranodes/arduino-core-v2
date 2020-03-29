@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map PCF2123
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+bcd_decode			KEYWORD2
+bcd_encode			KEYWORD2
+PCF2123 			KEYWORD2
+begin 				KEYWORD2
+get_time 			KEYWORD2
+set_time 			KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OFF				LITERAL1
+BLUE			LITERAL1
+GREEN			LITERAL1
+CYAN			LITERAL1
+RED				LITERAL1
+PINK			LITERAL1
+WHITE			LITERAL1

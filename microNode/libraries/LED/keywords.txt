@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map FRAM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+RGBset			KEYWORD2
+RGBinit				KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OFF				LITERAL1
+BLUE			LITERAL1
+GREEN			LITERAL1
+CYAN			LITERAL1
+RED				LITERAL1
+PINK			LITERAL1
+WHITE			LITERAL1

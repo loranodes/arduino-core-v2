@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map FRAM
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+FRAMinit			KEYWORD2
+FRAMwrite			KEYWORD2
+FRAMwriteblock				KEYWORD2
+FRAMread		KEYWORD2
+FRAMreadblock	KEYWORD2
+FRAMpack		KEYWORD2
+FRAMunpack	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
